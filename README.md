@@ -3,10 +3,10 @@ Code for the sculpture "Stratum". Ran on a Particle Photon micro controller.
 
 # Codes
 
-random-stratum-code:
+stratum-loop-rev1:
 
-loop-stratum-code:
+stratum-loop: Original un-revised code
 
-wifi-loop-stratum-code:
+wifi-stratum-loop:
 
-wifi-custom-stratum-code:
+wifi-stratum-custom:
